@@ -1,0 +1,15 @@
+{
+  "exposure_ctrl": 1,
+  "aec_value": 400,
+  "gain_ctrl": 1,
+  "agc_gain": 0,
+  "gainceiling": 4,
+  "brightness": 0,
+  "contrast": 1,
+  "saturation": 0,
+  "whitebal": 1,
+  "awb_gain": 1,
+  "wb_mode": 0,
+  "special_effect": 0,
+  "ae_level": 0
+}
